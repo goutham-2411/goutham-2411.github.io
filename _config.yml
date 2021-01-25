@@ -9,7 +9,7 @@ name: Goutham T S
 description: My experimenting blog.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/isamanipal/isamanipal.github.io/master/images/wall.jpg
+avatar: https://raw.githubusercontent.com/goutham-2411/goutham-2411.github.io/master/images/wall.jpg
 
 #
 # Flags below are optional
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/isamanipal/isamanipal.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: isamitmt@gmail.com
-  facebook: isamanipal
+  email: gothamtsgoutham9098@gmail.com
+  facebook: Goutham.T.S
   flickr:
-  github: isamanipal
-  instagram: isa_manipal
-  linkedin: isa-manipal
+  github: goutham-2411
+  instagram: goutham_2411
+  linkedin: Goutham T S
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCkIGRoLLEWvmxLWJgjomj3w # channel/<your_long_string> or user/<user-name>
+  youtube:  # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
