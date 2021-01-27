@@ -8,4 +8,8 @@ This is a quick todo list I've made to keep track of this
  - Stick to the naming scheme for posts (the file should be "yyyy-mm-dd-\<post name\>.md")(remove the example post when done)
 
  
- - (Maybe) Add a "tag" for posts so we can group content by the tag 
+ - (Maybe) Add a "tag" for posts so we can group content by the tag
+ 
+# Working my blog creation..
+
+There a lot of things to add. 
