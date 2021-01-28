@@ -3,7 +3,7 @@ layout: post
 title: Self Driving Cars!
 ---
 
-Mos people learn how to drive a car in their late teenage years or as young adults, without much difficulty. But how do you get an automated system to do the same for you? What sort of sensors would you use to make sure you don’t miss a crucial stop sign on the road? 💫
+Most people learn how to drive a car in their late teenage years or as young adults, without much difficulty. But how do you get an automated system to do the same for you? What sort of sensors would you use to make sure you don’t miss a crucial stop sign on the road? 💫
 
 ### AI powered cars?
 ![Self driving car image 1]({{ site.baseurl }}/images/tech-tuesdays-content/AI/Self-driving-cars/1.jpeg)
@@ -12,5 +12,8 @@ In this week's post, learn more about some of the cool technologies and algorith
 
  - More efficient than humans
  - Less collisions
+ - Less casualties
+ - Safer driving
+ - Accurate location drop
  - etc 
  
