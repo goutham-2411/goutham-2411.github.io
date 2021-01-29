@@ -16,4 +16,4 @@ There a lot of things to add.
 
 # Update
 
-now i am using this repo to work on my coursera assignment. 
+Now i am using this repo to work on my coursera assignment. 
