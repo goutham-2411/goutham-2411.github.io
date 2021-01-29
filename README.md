@@ -12,4 +12,8 @@ This is a quick todo list I've made to keep track of this
  
 # Working my blog creation..
 
-There a lot of things to add. 
+There a lot of things to add.
+
+# Update
+
+now i am using this repo to work on my coursera assignment. 
