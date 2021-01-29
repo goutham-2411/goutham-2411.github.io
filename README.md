@@ -1,4 +1,6 @@
-# ISA manipal's website
+# ISA manipal's website.
+
+The official website of ISA Manipal's student section.
 
 This is a quick todo list I've made to keep track of this
 
