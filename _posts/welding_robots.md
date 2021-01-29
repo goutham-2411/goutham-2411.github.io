@@ -12,7 +12,7 @@ faster and better. 💡
 
 ### Welding robots?
 
-![Welding robots 1]({{ site.baseurl }}/images/tech-tuesdays-content/AI/2.jpg)
+![Welding robots...]({{ site.baseurl }}/images/tech-tuesdays-content/AI/1.jpg)
 
 - More efficient than humans
 - Less manufacturing errors
