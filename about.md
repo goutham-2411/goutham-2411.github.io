@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 
-The **International Society of Automation (ISA)** is a non-profit professional association of engineers, technicians, and management engaged in industrial automation and its connected fields. As the globally trusted provider of foundational standards-based technical resources for the profession, ISA strives to build a better world through automation.
+Hello folks, I am **Goutham T S** a 3rd year student at Manipal Institute of Technology, Manipal. I am pursuing my B.Tech in Electronics and Instrumentation. My areas of interests are mainly in Coding, Iot and mostly in aerospace. My aim is to pursue MS in a well renowed German University and then to get into a organisation that mainly focuses on Automation domain and related. I am also part of ISA, Manipal and Robotics and Circuits team at my college. We are working on cool projects.
 
-The **ISA Manipal Institute of Technology Student Section**, as one of the countless student sections spread across India and the world, strives to promote the ISA community among students in the local arena, by helping them develop their technical skills and professional networks through the plethora of resources that ISA provides, including but not limited to: 
-- access to our top-level technical library and research transactions; 
-- exclusive access to specialised focus groups/divisions in specific fields including robotics and automation, cybersecurity, and education; and 
-- networking and career-making opportunities with like-minded students as well as professionals.
+This is all for now, I will be updating this page every now and then.
+
+Thank you.
 
 ### Contact us
 
-[isamitmt@gmail.com](mailto:isamitmt@gmail.com)
+[gouthamts24@gmail.com](mailto:gouthamts24@gmailcom)
